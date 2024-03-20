@@ -1846,7 +1846,7 @@
               },
               "fileName": {
                 "type": "string",
-                "default": "meshagent",
+                "default": "iControlagent",
                 "description": "The agent filename."
               },
               "foregroundColor": {
