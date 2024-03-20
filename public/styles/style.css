@@ -118,7 +118,7 @@ body {
 
 .AgentInviteMasthead {
     background:url(logo.png) 0px 0px;
-    background-color:#036;
+    background-color:#0f68ee;
     background-repeat:no-repeat;height:66px;width:100%;overflow:hidden;
 }
 
@@ -128,7 +128,7 @@ body {
     padding: 0;
     overflow: hidden;
     text-align: right;
-    background-color: #036;
+    background-color: #0f68ee;
     background-image: url(../logo.png);
     background-position-x: 0px;
     background-position-y: 0px;
@@ -1346,7 +1346,7 @@ NoMeshesPanel img {
 }
 
 a {
-    color: #036;
+    color: #0f68ee;
     text-decoration: underline;
     cursor: pointer;
 }
